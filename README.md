@@ -6,9 +6,7 @@
 
 ### Rainhards Github repositories on Fortran:
 
-<ul>
-
-	<li></li>
+<ul>	
 	<li>Parent and two child repos</li>
 	<li>https://github.com/reinh-bader</li>
 	<li>https://github.com/reinh-bader/object_fortran</li>
