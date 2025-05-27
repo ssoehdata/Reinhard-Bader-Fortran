@@ -1,4 +1,4 @@
-# Reinhard_Bader_Fortran
+# Reinhard Bader Fortran Resources
 #### Collection of Fortran resources from Reinhard Bader
 
 ##### I make no claim of ownership of these files. I created this both as a reference for myself as well as public "backup" repository for his teaching materials. 
