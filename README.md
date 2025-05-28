@@ -1,10 +1,10 @@
-# Reinhard Bader Fortran Resources
+# Reinhold Bader Fortran Resources
 #### Collection of Fortran resources from Reinhard Bader
 
 ##### I make no claim of ownership of these files. I created this both as a reference for myself as well as public "backup" repository for his teaching materials. 
 ##### If anyone feels I should remove these from public view, please do not hesitate to contact me. 
 
-### Reinhard's Github repositories on Fortran:
+### Reinhold's Github repositories on Fortran:
 
 <ul>	
 	<li>Parent and two child repos</li>
